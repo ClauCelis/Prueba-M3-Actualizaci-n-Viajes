@@ -5,15 +5,13 @@
 @import 'abstracts/mixins';
 
 // Vendors
-@import "vendors/bootstrap";
+
 
 // Base
 @import 'base/reset';
 @import 'base/typography';
 
 // Layout
-@import 'layout/header';
-@import 'layout/footer';
 @import 'layout/testimonios';
 
 
@@ -29,4 +27,3 @@
 @import 'pages/home';
 
 // Themes
-@import 'themes/theme';
