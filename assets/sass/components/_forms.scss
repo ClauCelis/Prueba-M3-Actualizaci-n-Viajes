@@ -1,0 +1,33 @@
+
+
+// Formulario de contacto
+
+.form-check-input:checked {
+    background-color: $green-active;
+    border-color: $green-active;
+}
+
+#check-text {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+// ícones de RRSS
+.media-icons{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+// Modal
+
+.modal-title {
+    color:black;
+}
+
+.modal-body p{
+    text-align: justify;
+    font-size: 0.8rem;
+    color: black;
+    
+}

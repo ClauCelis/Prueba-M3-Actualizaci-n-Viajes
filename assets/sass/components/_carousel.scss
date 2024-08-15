@@ -1,0 +1,16 @@
+
+#carousel-img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 30%;
+    border-radius: 0 0 20px 20px;
+    margin-top: 3rem;
+}
+
+@media (max-width: 667px) {
+    #carousel-img{
+        height: 300px;
+        
+    }
+}

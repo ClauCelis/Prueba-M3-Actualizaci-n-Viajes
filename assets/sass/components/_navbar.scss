@@ -1,0 +1,27 @@
+
+.navbar{
+    background: rgba(255, 255, 255, 0.20);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.5px);
+    -webkit-backdrop-filter: blur(5.3px);
+    border: 1px solid rgba(36, 154, 168, 0.1);
+    
+    }
+    
+    .navbar-brand img{
+        width: 2rem;
+    
+    }
+    
+    .navbar a {
+        color: #fff;
+        text-decoration: none;
+        margin-left: 20px;
+        
+        &:hover{
+            color: #fff;
+            text-shadow: #43cd8cf9 0 0 5px;
+        }
+    
+    }
+    
